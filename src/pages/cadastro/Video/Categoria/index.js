@@ -11,7 +11,7 @@ function CadastroCategoria () {
 
 
             <Link to="/">
-                Ir para Home
+                Ir para home
             </Link>
         </PageDefault>
     )
